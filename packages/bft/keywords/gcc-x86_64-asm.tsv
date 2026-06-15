@@ -1,0 +1,15 @@
+canonical	native
+add	جمع_کرو
+call	کال_کرو
+cmp	موازنہ_کرو
+div	تقسیم_کرو
+jmp	چھلانگ_لگاؤ
+lock	لاک
+mov	منتقل_کرو
+mul	ضرب_کرو
+nop	کچھ_نہیں
+pop	نکالو
+push	دھکیل
+rep	دہراؤ
+ret	واپس_آؤ
+sub	منہا_کرو

@@ -1,0 +1,15 @@
+canonical	native
+DIM	ابعاد
+ELSE	وگرنه
+END	تمامت
+FOR	اونتوق
+GOSUB	سابروتين
+GOTO	ڬوتو
+IF	اگر
+INPUT	داخل
+LET	بري
+NEXT	سلسله
+PRINT	چاپ
+REM	ريم
+RETURN	كembali
+THEN	مكا

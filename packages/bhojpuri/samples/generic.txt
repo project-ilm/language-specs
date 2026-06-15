@@ -1,0 +1,8 @@
+# Bhojpuri — Shaili (generic control sample). context: https://ilm.codes/context/
+जब (n > 0):
+    n = n - 1
+नाहीं_त:
+    n = 0
+जबले (n > 0):
+    n = n - 1
+लौटा n

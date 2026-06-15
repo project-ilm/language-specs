@@ -1,0 +1,15 @@
+canonical	native
+DIM	အရွယ်
+ELSE	وإلا
+END	အဆုံး
+FOR	အတွက်
+GOSUB	သွားခွဲ
+GOTO	သွား
+IF	اذا
+INPUT	shiga
+LET	bar
+NEXT	နောက်တစ်ခု
+PRINT	ပုံနှိပ်
+REM	မှတ်ချက်
+RETURN	ပြန်
+THEN	ထို့နောက်

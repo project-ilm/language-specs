@@ -1,0 +1,1376 @@
+{
+ "generated": "2026-06-15",
+ "packages": [
+  {
+   "id": "ajami",
+   "name": "ajami",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ar",
+   "name": "Arabic",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "arabic",
+   "name": "arabic",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "aramaic",
+   "name": "aramaic",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "assamese",
+   "name": "assamese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "awadhi",
+   "name": "awadhi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "azb",
+   "name": "South Azerbaijani",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "bal",
+   "name": "Balochi",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "balinese",
+   "name": "balinese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "balochi",
+   "name": "balochi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "batak",
+   "name": "batak",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "beng",
+   "name": "beng",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "bengali",
+   "name": "bengali",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "bft",
+   "name": "Balti",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "bhojpuri",
+   "name": "Bhojpuri",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 10,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "bodo",
+   "name": "bodo",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "brh",
+   "name": "Brahui",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "buginese",
+   "name": "buginese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "burmese",
+   "name": "burmese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "chhattisgarhi",
+   "name": "chhattisgarhi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "dari",
+   "name": "dari",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "dev",
+   "name": "dev",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "dogri",
+   "name": "dogri",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "dzongkha",
+   "name": "dzongkha",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "fa",
+   "name": "Persian",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ff_aj",
+   "name": "Fula (Ajami)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "glk",
+   "name": "Gilaki",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "gujarati",
+   "name": "gujarati",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ha_aj",
+   "name": "Hausa (Ajami)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "haz",
+   "name": "Hazaragi",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "hebrew",
+   "name": "hebrew",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "hi",
+   "name": "Hindi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 10,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "hnd",
+   "name": "Hindko",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "javanese",
+   "name": "javanese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "jawi",
+   "name": "jawi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "jpr",
+   "name": "Judeo-Persian",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "jrb",
+   "name": "Judeo-Arabic",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "kannada",
+   "name": "kannada",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "kashmiri",
+   "name": "kashmiri",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "khmer",
+   "name": "khmer",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "khw",
+   "name": "Khowar",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "kk_arab",
+   "name": "Kazakh (Arabic)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "konkani",
+   "name": "konkani",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "kr_arab",
+   "name": "Kanuri (Arabic)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ks",
+   "name": "Kashmiri",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ku_kmr_pa",
+   "name": "Kurdish (Kurmanji, PA)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ku_sor",
+   "name": "Kurdish (Sorani)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ky_arab",
+   "name": "Kyrgyz (Arabic)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "lao",
+   "name": "lao",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "lepcha",
+   "name": "lepcha",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "limbu",
+   "name": "limbu",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "lrc",
+   "name": "Northern Luri",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "magahi",
+   "name": "magahi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "maithili",
+   "name": "maithili",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "malayalam",
+   "name": "malayalam",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "mandaic",
+   "name": "mandaic",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "marathi",
+   "name": "marathi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "marwari",
+   "name": "marwari",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "mnk_aj",
+   "name": "Mandinka (Ajami)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ms_jawi",
+   "name": "Malay (Jawi)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "mzn",
+   "name": "Mazanderani",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "nabataean",
+   "name": "nabataean",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "nepali",
+   "name": "nepali",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "newari",
+   "name": "newari",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "odia",
+   "name": "odia",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ota",
+   "name": "Ottoman Turkish",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "pa_sh",
+   "name": "Punjabi (Shahmukhi)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "pali",
+   "name": "pali",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "pashto",
+   "name": "pashto",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "persian",
+   "name": "persian",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "phoenician",
+   "name": "phoenician",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "prakrit",
+   "name": "prakrit",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "prs",
+   "name": "Dari",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "punjabi",
+   "name": "punjabi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "rajasthani",
+   "name": "rajasthani",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "rhg",
+   "name": "Rohingya",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 232,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "samaritan",
+   "name": "samaritan",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sanskrit",
+   "name": "sanskrit",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "santali",
+   "name": "santali",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "saraiki",
+   "name": "saraiki",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "scl",
+   "name": "Shina",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sd",
+   "name": "Sindhi",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "shahmukhi",
+   "name": "shahmukhi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "shan",
+   "name": "shan",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sindhi",
+   "name": "sindhi",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sinhala",
+   "name": "sinhala",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "skr",
+   "name": "Saraiki",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "so_arab",
+   "name": "Somali (Arabic)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sorani",
+   "name": "sorani",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sundanese",
+   "name": "sundanese",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "sw_aj",
+   "name": "Swahili (Ajami)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "syr_gar",
+   "name": "Syriac (Garshuni)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "syriac",
+   "name": "syriac",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tagalog",
+   "name": "tagalog",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tamil",
+   "name": "tamil",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tat",
+   "name": "Tatar",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "telugu",
+   "name": "telugu",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tg_pa",
+   "name": "Tajik (PA)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "thai",
+   "name": "thai",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tibetan",
+   "name": "tibetan",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tk_arab",
+   "name": "Turkmen (Arabic)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "tulu",
+   "name": "tulu",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ug",
+   "name": "Uyghur",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "ur",
+   "name": "Urdu",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "logo",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 240,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "urdu",
+   "name": "urdu",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "uyghur",
+   "name": "uyghur",
+   "family": "Brahmi (Devanagari)",
+   "hosts": [
+    "generic"
+   ],
+   "keyword_count": 0,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "wbl",
+   "name": "Wakhi",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "yacc"
+   ],
+   "keyword_count": 194,
+   "updated": "2026-06-15"
+  },
+  {
+   "id": "wo_aj",
+   "name": "Wolof (Ajami)",
+   "family": "Perso-Arabic",
+   "hosts": [
+    "basic",
+    "c",
+    "cpp",
+    "gcc-x86_64-asm",
+    "js",
+    "lex",
+    "python",
+    "yacc"
+   ],
+   "keyword_count": 229,
+   "updated": "2026-06-15"
+  }
+ ]
+}

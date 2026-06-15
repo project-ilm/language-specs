@@ -1,0 +1,15 @@
+canonical	native
+add	ပေါင်း
+call	ခေါ်
+cmp	နှိုင်း
+div	ခွဲ
+jmp	ခုန်
+lock	သော့
+mov	ရွှေ့
+mul	မြှောက်
+nop	မလုပ်
+pop	ထုတ်
+push	တွန်း
+rep	ထပ်
+ret	ပြန်
+sub	နုတ်

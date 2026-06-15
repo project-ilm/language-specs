@@ -1,0 +1,15 @@
+canonical	native
+DIM	حجم
+ELSE	وإلا
+END	نهاية
+FOR	لـ
+GOSUB	اذهب_فرعي
+GOTO	اذهب_إلى
+IF	اذا
+INPUT	ادخل
+LET	دع
+NEXT	التالي
+PRINT	اطبع
+REM	تعليق
+RETURN	ارجع
+THEN	ثم

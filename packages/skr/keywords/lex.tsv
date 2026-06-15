@@ -1,0 +1,6 @@
+canonical	native
+%option	آپشن
+%s	حالت
+%x	حالت
+%{	شروع_ڪوڊ
+%}	ختم_ڪوڊ

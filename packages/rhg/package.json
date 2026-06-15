@@ -1,0 +1,18 @@
+{
+ "id": "rhg",
+ "name": "Rohingya",
+ "family": "Perso-Arabic",
+ "hosts": [
+  "basic",
+  "c",
+  "cpp",
+  "gcc-x86_64-asm",
+  "js",
+  "lex",
+  "logo",
+  "python",
+  "yacc"
+ ],
+ "keyword_count": 232,
+ "updated": "2026-06-15"
+}

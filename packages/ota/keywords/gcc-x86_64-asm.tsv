@@ -1,0 +1,15 @@
+canonical	native
+add	قوش
+call	چاقىرىش
+cmp	سېلىشتۇر
+div	بۆلۈش
+jmp	سەكرەش
+lock	قۇلۇپ
+mov	كۆچۈر
+mul	كۆپەيتىش
+nop	ھېچ
+pop	چىقار
+push	سىقىش
+rep	قايتىلان
+ret	قايتىش
+sub	ئېلىش

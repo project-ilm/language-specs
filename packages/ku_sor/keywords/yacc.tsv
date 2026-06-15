@@ -1,0 +1,7 @@
+canonical	native
+%left	چەپ
+%nonassoc	بێپەیوەند
+%right	راست
+%start	دەستپێک
+%token	نشان
+delimiter	جداکننده

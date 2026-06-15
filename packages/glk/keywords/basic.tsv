@@ -1,0 +1,15 @@
+canonical	native
+DIM	بعد
+ELSE	وگرنه
+END	پایان
+FOR	برای
+GOSUB	زیرروال
+GOTO	برو_به
+IF	اگر
+INPUT	داخل
+LET	بگذار
+NEXT	بعدی
+PRINT	چاپ
+REM	توضیح
+RETURN	برگرد
+THEN	آنگاه

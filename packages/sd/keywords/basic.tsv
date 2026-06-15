@@ -1,0 +1,15 @@
+canonical	native
+DIM	ماپ
+ELSE	ٻيئي
+END	ختم
+FOR	لاء
+GOSUB	ذیلی
+GOTO	وڃو
+IF	اگر
+INPUT	داخل
+LET	ڏيو
+NEXT	اڳيون
+PRINT	ڇاپ
+REM	تبصرو
+RETURN	موٽ
+THEN	پوءِ

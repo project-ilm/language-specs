@@ -1,0 +1,16 @@
+{
+ "id": "syr_gar",
+ "name": "Syriac (Garshuni)",
+ "family": "Perso-Arabic",
+ "hosts": [
+  "basic",
+  "c",
+  "cpp",
+  "gcc-x86_64-asm",
+  "js",
+  "lex",
+  "yacc"
+ ],
+ "keyword_count": 194,
+ "updated": "2026-06-15"
+}
