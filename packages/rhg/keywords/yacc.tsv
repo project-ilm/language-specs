@@ -1,0 +1,6 @@
+canonical	native
+%left	ဘယ်
+%nonassoc	မချိတ်ဆက်
+%right	ညာ
+%start	အစပြု
+%token	သင်္ကေတ

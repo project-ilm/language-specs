@@ -1,0 +1,10 @@
+{
+ "id": "prakrit",
+ "name": "prakrit",
+ "family": "Brahmi (Devanagari)",
+ "hosts": [
+  "generic"
+ ],
+ "keyword_count": 0,
+ "updated": "2026-06-15"
+}

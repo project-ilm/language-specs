@@ -1,0 +1,8 @@
+# Hindi — Shaili (generic control sample). context: https://ilm.codes/context/
+अगर (n > 0):
+    n = n - 1
+अन्यथा:
+    n = 0
+जबतक (n > 0):
+    n = n - 1
+वापस n

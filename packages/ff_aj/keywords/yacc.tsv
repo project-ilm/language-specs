@@ -1,0 +1,7 @@
+canonical	native
+%left	چپ
+%nonassoc	غیرمرتبط
+%right	راست
+%start	آغاز
+%token	توکن
+delimiter	جداکننده

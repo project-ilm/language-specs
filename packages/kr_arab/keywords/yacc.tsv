@@ -1,0 +1,7 @@
+canonical	native
+%left	يسار
+%nonassoc	غير_مرتبط
+%right	يمين
+%start	بداية
+%token	رمز
+delimiter	ခွဲ

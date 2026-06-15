@@ -1,0 +1,15 @@
+canonical	native
+add	زیادکردن
+call	بانگهێشتن
+cmp	پێوانەکردن
+div	دابەشکردن
+jmp	بازدان
+lock	قفلکردن
+mov	گواستن
+mul	لەخۆدان
+nop	هیچ
+pop	کێشانەوە
+push	فشاردان
+rep	دووبارە
+ret	گەڕانەوە
+sub	کەمکردن

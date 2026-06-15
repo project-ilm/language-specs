@@ -1,0 +1,17 @@
+{
+ "id": "brh",
+ "name": "Brahui",
+ "family": "Perso-Arabic",
+ "hosts": [
+  "basic",
+  "c",
+  "cpp",
+  "gcc-x86_64-asm",
+  "js",
+  "lex",
+  "python",
+  "yacc"
+ ],
+ "keyword_count": 229,
+ "updated": "2026-06-15"
+}

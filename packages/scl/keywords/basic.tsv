@@ -1,0 +1,15 @@
+canonical	native
+DIM	سائز
+ELSE	ورنہ
+END	ختم
+FOR	کے_ليے
+GOSUB	ذیلی_جاؤ
+GOTO	جاؤ
+IF	اگر
+INPUT	داخل_کرو
+LET	دیں
+NEXT	اگلا
+PRINT	چھاپو
+REM	تبصرہ
+RETURN	واپس_آؤ
+THEN	تو

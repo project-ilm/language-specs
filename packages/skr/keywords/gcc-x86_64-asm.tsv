@@ -1,0 +1,15 @@
+canonical	native
+add	وڌايو
+call	سڏ
+cmp	مقابلو
+div	ورهايو
+jmp	ٽپو
+lock	تالا
+mov	منتقل
+mul	ضرب
+nop	ڪجهه_نه
+pop	ڪڍو
+push	دٻايو
+rep	ورجاء
+ret	موٽ
+sub	گهٽايو

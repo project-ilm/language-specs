@@ -1,0 +1,7 @@
+canonical	native
+%left	ليفٹ
+%nonassoc	نوناسوس
+%right	رايٽ
+%start	ستارت
+%token	توكن
+delimiter	جداکننده

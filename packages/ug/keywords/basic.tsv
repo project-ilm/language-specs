@@ -1,0 +1,15 @@
+canonical	native
+DIM	ئۆلچەم
+ELSE	بولمىسا
+END	تامام
+FOR	ئۈچۈن
+GOSUB	ئاستىغا
+GOTO	بېرىش
+IF	ئەگەر
+INPUT	كىرگۈزۈش
+LET	تەڭشە
+NEXT	كېيىنكى
+PRINT	بېسىپ_چىقار
+REM	ئىزاھ
+RETURN	قايت
+THEN	ئاندىن

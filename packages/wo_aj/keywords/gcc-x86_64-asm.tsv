@@ -1,0 +1,15 @@
+canonical	native
+add	أضف
+call	استدعاء
+cmp	قارن
+div	اقسم
+jmp	اقفز
+lock	قفل
+mov	انقل
+mul	اضرب
+nop	لا_شيء
+pop	اسحب
+push	ادفع
+rep	كرر
+ret	ارجع
+sub	اطرح

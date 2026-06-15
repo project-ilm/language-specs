@@ -1,0 +1,6 @@
+canonical	native
+%option	آپشن
+%s	حالة
+%x	حالة
+%{	كود_باش
+%}	كود_ختم

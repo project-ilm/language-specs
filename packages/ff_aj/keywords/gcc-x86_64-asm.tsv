@@ -1,0 +1,15 @@
+canonical	native
+add	جمع
+call	فراخوان
+cmp	مقایسه
+div	تقسیم
+jmp	پرش
+lock	قفل
+mov	انتقال
+mul	ضرب
+nop	هیچ
+pop	بردار
+push	هل_ده
+rep	تکرار
+ret	بازگشت
+sub	تفریق

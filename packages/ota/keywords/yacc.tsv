@@ -1,0 +1,7 @@
+canonical	native
+%left	سول
+%nonassoc	ئالاقىسىز
+%right	ئوڭ
+%start	باشلىنىش
+%token	بەلگە
+delimiter	فاصل

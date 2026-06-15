@@ -1,0 +1,7 @@
+canonical	native
+%left	کاٻو
+%nonassoc	غيرمرتبط
+%right	ساڄو
+%start	آغاز
+%token	ٽوڪن
+delimiter	حد_فاصل
