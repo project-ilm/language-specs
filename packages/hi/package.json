@@ -2,9 +2,15 @@
  "id": "hi",
  "name": "Hindi",
  "family": "Brahmi (Devanagari)",
+ "source": "hindawi-lexers",
  "hosts": [
-  "generic"
+  "c"
  ],
- "keyword_count": 10,
+ "keyword_count": 322,
+ "bidirectional": true,
+ "lexers": [
+  "c2h.uhin",
+  "h2c.uhin"
+ ],
  "updated": "2026-06-15"
 }

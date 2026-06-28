@@ -44,8 +44,12 @@ for f in sorted(glob.glob(os.path.join(ILM,"ilm-*-keywords-mapping.csv"))):
             canon=r[0].strip(); nat=(r[2+ci].strip() if 2+ci<len(r) else "")
             if canon and nat: m[canon]=nat
 # --- schema B: per-language triples (Devanagari/Brahmi) ---
+SKIP=set()
+_mk=os.path.join(OUT,".hindawi_built")
+if os.path.exists(_mk): SKIP=set(open(_mk).read().split())
 for f in sorted(glob.glob(os.path.join(LSP,"lang_*.csv"))) + sorted(glob.glob(os.path.join(LSP,"dialect_*.csv"))):
     base=os.path.basename(f); langid={"lang_hindi":"hi","dialect_bhojpuri":"bhojpuri"}.get(base[:-4], base[:-4].split("_")[-1])
+    if langid in SKIP: continue
     with open(f,encoding="utf-8") as fh:
         rd=csv.DictReader(fh); m=pkgs.setdefault(langid,{"name":NAMES.get(langid,langid),"family":"Brahmi (Devanagari)","hosts":{}})["hosts"].setdefault("generic",{})
         for row in rd:
